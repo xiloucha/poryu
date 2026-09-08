@@ -703,4 +703,18 @@
     opacity: 1;
     font-weight: bold;
   }
-  
+  .add-area button {
+    width: 52px;
+    height: 52px;
+    min-width: 52px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    border: none;
+    border-radius: 14px;
+    background: #70765b;
+    color: white;
+    font-size: 25px;
+  }
